@@ -1,1 +1,1 @@
-# CPaulson42.github.io
+# SCGC.io
