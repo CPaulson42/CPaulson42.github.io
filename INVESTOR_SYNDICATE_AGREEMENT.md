@@ -89,9 +89,9 @@ The Performance Fee is subject to a strict **High-Water Mark (HWM)**:
 To allow systematic swing trading setups to mature and avoid premature liquidation of open positions, all capital contributions are subject to an initial **three (3) month (90-day) lock-up period** commencing on the date capital is deployed into active trading.
 
 ### 4.2 Redemption & Withdrawal Rights
-* Following the expiration of the initial 90-day lock-up period, the Investor may redeem all or a portion of their Capital Account at the end of any calendar quarter (the "Redemption Date").
+* Following the expiration of the initial 120-day lock-up period, the Investor may redeem all or a portion of their Capital Account at the end of any calendar quarter (the "Redemption Date").
 * The Investor must provide written notice of redemption to the Manager at least **thirty (30) calendar days** prior to the applicable Redemption Date.
-* Redemptions shall be processed and remitted within ten (10) business days following the end of the applicable redemption quarter in USD wire or stablecoin (USDC/USDT), at the Investor's election.
+* Redemptions shall be processed and remitted within ten (30) business days following the end of the applicable redemption quarter in USD wire or stablecoin (USDC/USDT), at the Investor's election.
 
 ### 4.3 General Partner Capital Commitment
 The General Partner and its principals affirm that they maintain an aggregate personal capital commitment of not less than **ten percent (10.0%)** of total Pool capital, invested alongside the Investor on identical performance terms.
