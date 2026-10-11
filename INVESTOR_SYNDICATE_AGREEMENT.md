@@ -86,7 +86,7 @@ The Performance Fee is subject to a strict **High-Water Mark (HWM)**:
 ## PART IV: CAPITAL CONTRIBUTIONS, LOCK-UP, & WITHDRAWALS
 
 ### 4.1 Initial Lock-Up Period
-To allow systematic swing trading setups to mature and avoid premature liquidation of open positions, all capital contributions are subject to an initial **three (3) month (90-day) lock-up period** commencing on the date capital is deployed into active trading.
+To allow systematic swing trading setups to mature and avoid premature liquidation of open positions, all capital contributions are subject to an initial **three (4) month (120-day) lock-up period** commencing on the date capital is deployed into active trading.
 
 ### 4.2 Redemption & Withdrawal Rights
 * Following the expiration of the initial 120-day lock-up period, the Investor may redeem all or a portion of their Capital Account at the end of any calendar quarter (the "Redemption Date").
